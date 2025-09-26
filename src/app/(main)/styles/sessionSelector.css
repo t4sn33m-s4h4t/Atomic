@@ -1,0 +1,26 @@
+.session-selector img {
+  display: none;
+}
+@media (max-width: 765px) {
+  .session-selector {
+    @apply z-10 mb-10 flex max-h-[48px] w-full flex-col overflow-hidden rounded-xl bg-white shadow-lg transition-all;
+  }
+  .session-selector > .active-elem img {
+    display: block;
+  }
+  .session-selector > .session-list-item {
+    @apply order-2;
+  }
+  .open {
+    @apply max-h-[1000px];
+  }
+
+  .session-selector > .active-elem {
+    @apply order-1;
+  }
+}
+@media (min-width: 768px) {
+  .session-selector {
+    @apply flex h-[20vw] flex-col gap-5 text-xl;
+  }
+}
