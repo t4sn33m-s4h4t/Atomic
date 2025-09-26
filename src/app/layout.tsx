@@ -18,7 +18,7 @@ import { UserDataContextProvider } from "./_context/UserDataProvider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "NDITC",
+  title: "ABSC",
   description: "Love the light of Technology",
   icons: { icon: "/Logo.png" },
   manifest: "/manifest.webmanifest",
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
         url: "/Logo.png",
         width: 512,
         height: 451,
-        alt: "NDITC Logo",
+        alt: "ABSC Logo",
       },
     ],
   },
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
         url: "/Logo.png",
         width: 512,
         height: 451,
-        alt: "NDITC Logo",
+        alt: "ABSC Logo",
       },
     ],
   },

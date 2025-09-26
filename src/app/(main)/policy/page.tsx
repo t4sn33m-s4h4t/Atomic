@@ -6,7 +6,7 @@ const Sections = [
     heading: "General Information",
     content: (
       <p>
-        General Information At NDITC (Notre Dame Information Technology Club),
+        General Information At ABSC (Notre Dame Information Technology Club),
         we value your privacy and are committed to safeguarding your personal
         information. This Privacy Policy outlines how we collect, use, disclose,
         and manage your information when you engage with our club, participate
@@ -69,7 +69,7 @@ const Sections = [
             communication regarding event details, updates, and relevant
             information.We may use your contact information to send newsletters,
             updates about our club activities, upcoming events, or important
-            announcements related to NDITC.
+            announcements related to ABSC.
           </p>
         ),
       },
@@ -111,7 +111,7 @@ const Sections = [
           <p>
             We may disclose your information if required to comply with legal
             obligations, enforce our policies, or protect the rights, property,
-            or safety of NDITC or others.
+            or safety of ABSC or others.
           </p>
         ),
       },
@@ -132,7 +132,7 @@ const Sections = [
     heading: "Changes to this Privacy Policy",
     content: (
       <p>
-        NDITC reserves the right to modify or update this Privacy Policy at any
+        ABSC reserves the right to modify or update this Privacy Policy at any
         time. We encourage you to review this page periodically for any changes.
         Your continued use of our services after modifications constitutes
         acceptance of the updated Privacy Policy.
@@ -152,7 +152,7 @@ const Sections = [
   {
     heading: "Last Updated: [12/21/2023]",
     content: (
-      <p>Thank you for being part of NDITC. Your privacy matters to us!</p>
+      <p>Thank you for being part of ABSC. Your privacy matters to us!</p>
     ),
   },
 ];

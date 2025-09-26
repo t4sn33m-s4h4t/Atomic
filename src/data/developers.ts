@@ -20,7 +20,7 @@ const x: devData = {
     {
       name: "Ahammad Shawki",
       image_url:
-        "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/15.jpg",
+        "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/15.jpg",
       modal_image_url: "/image/executives/2022-2023/15.png",
       profile_url: [
         {
@@ -46,7 +46,7 @@ const x: devData = {
     {
       name: "Md. Naimur Rahman",
       image_url:
-        "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/16.jpg",
+        "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/16.jpg",
       modal_image_url: "/image/executives/2022-2023/16.png",
       profile_url: [
         { platform: "facebook", url: "https://www.facebook.com/mdnaimur020" },

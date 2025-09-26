@@ -6,7 +6,7 @@ export async function POST(req: NextRequest) {
   await initAdmin();
 
   const memberDOC = await fetch(
-    `https://memberapi.nditc.net/uid/${data.ndc_id}/`,
+    `https://memberapi.ABSC.net/uid/${data.ndc_id}/`,
     {
       headers: { Authorization: "Token " + process.env.MEMBER_API_PRIVATE_KEY },
       method: "GET",

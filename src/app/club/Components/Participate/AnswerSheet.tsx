@@ -230,7 +230,7 @@ const AnswerSheet = ({
                       onPress={() => {
                         //setSubmitClicked(false);
                         onClose();
-                        router.push("/club/events/nditc/all");
+                        router.push("/club/events/ABSC/all");
                       }}
                     >
                       Got It!

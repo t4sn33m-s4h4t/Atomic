@@ -19,10 +19,10 @@
   "display": "standalone",
   "dir": "auto",
   "lang": "en-US",
-  "name": "NDITC",
-  "short_name": "NDITC",
+  "name": "ABSC",
+  "short_name": "ABSC",
   "start_url": "/",
-  "scope": "https://nditc.net",
-  "description": "Connect to NDITC",
-  "id": "https://nditc.net"
+  "scope": "https://ABSC.net",
+  "description": "Connect to ABSC",
+  "id": "https://ABSC.net"
 }

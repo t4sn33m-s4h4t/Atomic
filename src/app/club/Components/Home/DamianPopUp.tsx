@@ -78,7 +78,7 @@ const DamianPopUp = () => {
                     <MdCircleNotifications className="h-7 w-7" />
                     Notification:
                   </b>
-                  Hi there. Are you a Notre Damian? The NDITC Intra-College Fest
+                  Hi there. Are you a Notre Damian? The ABSC Intra-College Fest
                   is set for October 14-15!. Then what are you waiting for?
                   Enter your NDC Roll, get ready and keep your eyes on the
                   Events page. (Ignore this notification if you are not a

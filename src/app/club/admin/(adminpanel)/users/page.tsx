@@ -291,7 +291,7 @@ const Page = () => {
                   isSelected={isMember}
                   onValueChange={setIsMember}
                 >
-                  NDITC Member
+                  ABSC Member
                 </Checkbox>
                 <Checkbox
                   size="lg"
@@ -701,7 +701,7 @@ const EditUserData = ({
               state={editUserData.ndc_id}
               setValue={setValue}
               name="ndc_id"
-              label="NDITC Member Unique ID"
+              label="ABSC Member Unique ID"
               type="text"
               editable={editin}
               notRequired

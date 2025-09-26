@@ -8,7 +8,7 @@ import { useEffect } from "react";
 import { useAuthState } from "react-firebase-hooks/auth";
 import { toast } from "react-toastify";
 
-const getConnectToNDITC = async (ndc_id: string, email: string) => {
+const getConnectToABSC = async (ndc_id: string, email: string) => {
   const res = await fetch("/api/createaccountndc", {
     method: "POST",
     body: JSON.stringify({ ndc_id: ndc_id, email: email }),
@@ -31,8 +31,8 @@ const MemberCheck = ({
 
   useEffect(() => {
     if (userData?.ndc_id != "none" && !noDeepMemberCheck) {
-      getConnectToNDITC(userData?.ndc_id, userAuth?.email || "").catch(() => {
-        toast.error("You are not a member of NDITC!");
+      getConnectToABSC(userData?.ndc_id, userAuth?.email || "").catch(() => {
+        toast.error("You are not a member of ABSC!");
         updateDoc(doc(db, "participants", `${userAuth?.uid}`), {
           ndc_id: "",
         }).then(() => router.push("/club"));

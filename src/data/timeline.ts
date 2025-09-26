@@ -4,7 +4,7 @@ const timelineData = [
     time2: "01 Jan",
     title: "Our journey began",
     description:
-      "Born in 2018, NDITC sprouted at Notre Dame College to nurture tech talent and bridge the gap between knowledge and innovation.",
+      "Born in 2018, ABSC sprouted at Notre Dame College to nurture tech talent and bridge the gap between knowledge and innovation.",
     imgURL: "/image/timeline/1.jpg",
   },
   {
@@ -20,7 +20,7 @@ const timelineData = [
     time2: "23 Nov",
     title: "INIT 2018: Our very first national event",
     description:
-      "We successfully organized our first event ``NDITC_init 2018`` with 11 different segments.",
+      "We successfully organized our first event ``ABSC_init 2018`` with 11 different segments.",
     imgURL: "/image/timeline/3.jpg",
   },
   {

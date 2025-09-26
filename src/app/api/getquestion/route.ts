@@ -2,7 +2,7 @@ import { initAdmin } from "@/config/firebaseAdmin";
 import { Timestamp, getFirestore } from "firebase-admin/firestore";
 import { NextRequest, NextResponse } from "next/server";
 
-const getConnectToNDITC = async (ndc_id: string, email: string) => {
+const getConnectToABSC = async (ndc_id: string, email: string) => {
   const res = await fetch("/api/createaccountndc", {
     method: "POST",
     body: JSON.stringify({ ndc_id: ndc_id, email: email }),
@@ -60,7 +60,7 @@ export async function POST(req: NextRequest) {
   }
 
   if (data.ndc_id != "" && data.ndc_id != "none" && intra) {
-    getConnectToNDITC(data.ndc_id, data.email)
+    getConnectToABSC(data.ndc_id, data.email)
       .then((r) => r.json())
       .then((resp) => {
         if (!resp.success) {

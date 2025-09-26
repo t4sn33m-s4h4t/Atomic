@@ -107,7 +107,7 @@ const Page = ({ children }: { children: React.ReactNode }) => {
                 Notice
               </SubNavItem>
               <SubNavItem
-                href="/club/profile/events/nditc/all"
+                href="/club/profile/events/ABSC/all"
                 icon={MdEvent}
               >
                 Events

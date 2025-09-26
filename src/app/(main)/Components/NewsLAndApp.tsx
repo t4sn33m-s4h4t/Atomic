@@ -33,7 +33,7 @@ const NewsLAndApp = () => {
               onClick={() => {
                 if (email.replaceAll(" ", "") != "") {
                   window.open(
-                    "https://nditc.us14.list-manage.com/subscribe?u=252af46a54f45725aea40941c&id=53b7f78f01",
+                    "https://ABSC.us14.list-manage.com/subscribe?u=252af46a54f45725aea40941c&id=53b7f78f01",
                     "_blank",
                   );
                   setEmail("");
@@ -67,7 +67,7 @@ const NewsLAndApp = () => {
           <div id="caps">
             <p id="try">Try out</p>
             <h1>
-              OFFICIAL <span id="mbl">NDITC MOBILE</span>
+              OFFICIAL <span id="mbl">ABSC MOBILE</span>
             </h1>
           </div>
           <div id="botom">

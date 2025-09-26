@@ -11,7 +11,7 @@ export async function POST(req: NextRequest) {
       );
     }
 
-    const apiUrl = `https://memberapi.nditc.net/roll/20${data?.ndc_roll?.substring(1, 3)}/${data?.ndc_roll}/`;
+    const apiUrl = `https://memberapi.ABSC.net/roll/20${data?.ndc_roll?.substring(1, 3)}/${data?.ndc_roll}/`;
 
     const memberDOC = await fetch(apiUrl, {
       headers: { Authorization: "Token " + process.env.MEMBER_API_PRIVATE_KEY },

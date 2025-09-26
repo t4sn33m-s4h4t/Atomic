@@ -26,14 +26,14 @@ const db: dbType = {
     {
       name: "Dr. Fr. Hemanto Pius Rozario, CSC",
       image_url:
-        "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/heads/principal.jpg",
+        "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/heads/principal.jpg",
       profile_url: "",
       post: "Principal & Chief Patron",
     },
     {
       name: "Md. Ajimun Haque",
       image_url:
-        "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/heads/moderator.jpg",
+        "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/heads/moderator.jpg",
       profile_url: "",
       post: "Club Moderator",
     },
@@ -46,7 +46,7 @@ const db: dbType = {
 
         {
           name: "Muksifur Rahman",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Muksifur Rahman.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Muksifur Rahman.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Muksifur Rahman.png",
           profile_url: [
@@ -65,7 +65,7 @@ const db: dbType = {
         },
         {
           name: "Priangshu Sutradhar",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Priangshu Sutradhar.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Priangshu Sutradhar.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Priangshu Sutradhar.png",
           profile_url: [],
@@ -78,7 +78,7 @@ const db: dbType = {
         },
         {
           name: "Md. Abu Bakor Siddik Molla",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Md. Abu Bakor Siddik Molla.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Md. Abu Bakor Siddik Molla.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Md. Abu Bakor Siddik Molla.png",
           profile_url: [
@@ -93,7 +93,7 @@ const db: dbType = {
         },
         {
           name: "Redwanur Rahaman",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Redwanur Rahaman.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Redwanur Rahaman.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Redwanur Rahaman.png",
           profile_url: [
@@ -110,7 +110,7 @@ const db: dbType = {
         },
         {
           name: "Shuvojyoti Mondal",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Shuvojyoti Mondal.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Shuvojyoti Mondal.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Shuvojyoti Mondal.png",
           profile_url: [
@@ -125,7 +125,7 @@ const db: dbType = {
         },
         {
           name: "Muttaqi Mahmood Choudhury",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Muttaqi Mahmood Choudhury.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Muttaqi Mahmood Choudhury.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Muttaqi Mahmood Choudhury.png",
           profile_url: [
@@ -141,7 +141,7 @@ const db: dbType = {
         },
         {
           name: "Md. Mostakim Ferdows",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Md. Mostakim Ferdows.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Md. Mostakim Ferdows.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Md. Mostakim Ferdows.png",
           profile_url: [
@@ -156,7 +156,7 @@ const db: dbType = {
         },
         {
           name: "Samin Yasar Alam",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Samin Yasar Alam.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Samin Yasar Alam.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Samin Yasar Alam.png",
           profile_url: [
@@ -173,7 +173,7 @@ const db: dbType = {
         },
         {
           name: "Md Raad Sharar",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Md Raad Sharar.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Md Raad Sharar.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Md Raad Sharar.png",
           profile_url: [
@@ -188,7 +188,7 @@ const db: dbType = {
         },
         {
           name: "Wali E Zaman",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Wali E Zaman.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Wali E Zaman.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Wali E Zaman.png",
           profile_url: [],
@@ -201,7 +201,7 @@ const db: dbType = {
         },
         {
           name: "Kazi Nadid Hossain",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Kazi Nadid Hossain.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Kazi Nadid Hossain.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Kazi Nadid Hossain.png",
           profile_url: [
@@ -216,7 +216,7 @@ const db: dbType = {
         },
         {
           name: "Anol Dey Hrithik",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Anol Dey Hrithik.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Anol Dey Hrithik.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Anol Dey Hrithik.png",
           profile_url: [
@@ -231,7 +231,7 @@ const db: dbType = {
         },
         {
           name: "Aditya Sahariar Upal",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Aditya Sahariar Upal.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Aditya Sahariar Upal.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Aditya Sahariar Upal.png",
           profile_url: [],
@@ -244,7 +244,7 @@ const db: dbType = {
         },
         {
           name: "Aldrin Dip Sarker",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Aldrin Dip Sarker.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Aldrin Dip Sarker.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Aldrin Dip Sarker.png",
           profile_url: [
@@ -261,7 +261,7 @@ const db: dbType = {
         },
         {
           name: "Md.Abdullah Zuham",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Md.Abdullah Zuham.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Md.Abdullah Zuham.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Md.Abdullah Zuham.png",
           profile_url: [
@@ -276,7 +276,7 @@ const db: dbType = {
         },
         {
           name: "Tahsan Hossain",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Tahsan Hossain.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Tahsan Hossain.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Tahsan Hossain.png",
           profile_url: [
@@ -294,7 +294,7 @@ const db: dbType = {
         },
         {
           name: "Mohammad Foisal",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Mohammad Foisal.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Mohammad Foisal.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Mohammad Foisal.png",
           profile_url: [
@@ -311,7 +311,7 @@ const db: dbType = {
         },
         {
           name: "Arko Chakrovortty",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Arko Chakrovortty.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Arko Chakrovortty.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Arko Chakrovortty.png",
           profile_url: [
@@ -328,7 +328,7 @@ const db: dbType = {
         },
         {
           name: "Chowdhury Mohammad Minhatullah",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Chowdhury Mohammad Minhatullah.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Chowdhury Mohammad Minhatullah.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Chowdhury Mohammad Minhatullah.png",
           profile_url: [],
@@ -341,7 +341,7 @@ const db: dbType = {
         },
         {
           name: "HRM Rafsan Amin",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/HRM Rafsan Amin.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/HRM Rafsan Amin.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/HRM Rafsan Amin.png",
           profile_url: [
@@ -359,7 +359,7 @@ const db: dbType = {
         },
         {
           name: "Mansifur Rahman Rafsan",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Mansifur Rahman Rafsan.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Mansifur Rahman Rafsan.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Mansifur Rahman Rafsan.png",
           profile_url: [
@@ -375,7 +375,7 @@ const db: dbType = {
         },
         {
           name: "Abid Hossen",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Abid Hossen.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Abid Hossen.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Abid Hossen.png",
           profile_url: [
@@ -394,7 +394,7 @@ const db: dbType = {
         },
         {
           name: "MD HASIN HASNAT",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Md Hasin Hasnat.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Md Hasin Hasnat.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/MD HASIN HASNAT.png",
           profile_url: [
@@ -412,7 +412,7 @@ const db: dbType = {
         },
         {
           name: "Arunavo Niloy",
-          image_url: "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2024-2025/Arunavo Niloy.jpg",
+          image_url: "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2024-2025/Arunavo Niloy.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2024-2025/Arunavo Niloy.png",
           profile_url: [],
@@ -433,7 +433,7 @@ const db: dbType = {
         {
           name: "Shaikh Tasnim Iram",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2023-2024/Sheikh Tasnim Iram.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2023-2024/Sheikh Tasnim Iram.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2023-2024/1.png",
           profile_url: [
@@ -457,7 +457,7 @@ const db: dbType = {
         {
           name: "Fahim Haque",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2023-2024/Fahim Haque.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2023-2024/Fahim Haque.jpg",
           modal_image_url: "/image/executives/2023-2024/2.png",
           profile_url: [
             {
@@ -476,7 +476,7 @@ const db: dbType = {
         {
           name: "Sheikh Sadat Shaleheen",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2023-2024/Sheikh Sadat Shaleheen.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2023-2024/Sheikh Sadat Shaleheen.jpg",
           modal_image_url: "/image/executives/2023-2024/3.png",
           profile_url: [
             {
@@ -495,7 +495,7 @@ const db: dbType = {
         {
           name: "S M Ataul Munim",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2023-2024/S M Ataul Munim.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2023-2024/S M Ataul Munim.jpg",
           modal_image_url: "/image/executives/2023-2024/4.png",
           profile_url: [
             {
@@ -518,7 +518,7 @@ const db: dbType = {
         {
           name: "Md Iqtiar Uddin",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2023-2024/Md. Iqtiar Uddin Seeam.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2023-2024/Md. Iqtiar Uddin Seeam.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2023-2024/5.png",
           profile_url: [
@@ -538,7 +538,7 @@ const db: dbType = {
         {
           name: "Maskawath Hossain Jim",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2023-2024/Maksawath Hossain Jim.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2023-2024/Maksawath Hossain Jim.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2023-2024/6.png",
           profile_url: [
@@ -557,7 +557,7 @@ const db: dbType = {
         {
           name: "Inan Masud Aunan",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2023-2024/Inan Masud Aunan.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2023-2024/Inan Masud Aunan.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2023-2024/12.png",
           profile_url: [],
@@ -572,7 +572,7 @@ const db: dbType = {
         {
           name: "Muntasir Mahmud",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2023-2024/Muntasir Mahmud.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2023-2024/Muntasir Mahmud.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2023-2024/13.png",
           profile_url: [
@@ -591,7 +591,7 @@ const db: dbType = {
         {
           name: "Adib Adnan Hoque",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2023-2024/Adib Adnan.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2023-2024/Adib Adnan.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2023-2024/10.png",
           profile_url: [
@@ -611,7 +611,7 @@ const db: dbType = {
         {
           name: "MD Zihad Hossain Simanto",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2023-2024/MD Zihad Hossain Simanto.jpeg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2023-2024/MD Zihad Hossain Simanto.jpeg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2023-2024/11.png",
           profile_url: [
@@ -635,7 +635,7 @@ const db: dbType = {
         {
           name: "Nayeem Islam Shanto",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2023-2024/Nayeem Islam Shanto.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2023-2024/Nayeem Islam Shanto.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2023-2024/9.png",
           profile_url: [],
@@ -649,7 +649,7 @@ const db: dbType = {
         {
           name: "Nafe Ibne Dalower",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2023-2024/Nafe.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2023-2024/Nafe.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2023-2024/7.png",
           profile_url: [
@@ -689,7 +689,7 @@ const db: dbType = {
         {
           name: "Muntasir Sifat Dipto",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2023-2024/Muntasir Sifat Dipto.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2023-2024/Muntasir Sifat Dipto.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2023-2024/14.png",
           profile_url: [],
@@ -703,7 +703,7 @@ const db: dbType = {
         {
           name: "Md. Rabbi Hasan",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2023-2024/Md. Rabbi Hasan.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2023-2024/Md. Rabbi Hasan.jpg",
           imageInCenter: true,
           modal_image_url: "/image/executives/2023-2024/15.png",
           profile_url: [
@@ -727,7 +727,7 @@ const db: dbType = {
         {
           name: "Abdullah Rafid",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/1.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/1.jpg",
           modal_image_url: "/image/executives/2022-2023/1.png",
           profile_url: [
             { platform: "facebook", url: "https://www.facebook.com/smrt.nerd" },
@@ -742,7 +742,7 @@ const db: dbType = {
         {
           name: "Irfan Hossain Rafi",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/2.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/2.jpg",
           modal_image_url: "/image/executives/2022-2023/2.png",
           profile_url: [
             {
@@ -760,7 +760,7 @@ const db: dbType = {
         {
           name: "Md. Mahmudunnobi",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/3.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/3.jpg",
           modal_image_url: "/image/executives/2022-2023/3.png",
           profile_url: [
             {
@@ -779,7 +779,7 @@ const db: dbType = {
         {
           name: "Sabyasachi Ghosh",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/4.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/4.jpg",
           modal_image_url: "/image/executives/2022-2023/4.png",
           profile_url: [
             {
@@ -797,7 +797,7 @@ const db: dbType = {
         {
           name: "Khaled Mahmud Riad",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/5.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/5.jpg",
           modal_image_url: "/image/executives/2022-2023/5.png",
           profile_url: [
             {
@@ -815,7 +815,7 @@ const db: dbType = {
         {
           name: "Srijon Kumar Mondal",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/6.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/6.jpg",
           modal_image_url: "/image/executives/2022-2023/6.png",
           imageInCenter: true,
           profile_url: [
@@ -834,7 +834,7 @@ const db: dbType = {
         {
           name: "Shahtaz Rahman Labib",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/7.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/7.jpg",
           modal_image_url: "/image/executives/2022-2023/7.png",
           profile_url: [
             {
@@ -852,7 +852,7 @@ const db: dbType = {
         {
           name: "Nazmus Tahsan",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/8.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/8.jpg",
           modal_image_url: "/image/executives/2022-2023/8.png",
           profile_url: [
             {
@@ -870,7 +870,7 @@ const db: dbType = {
         {
           name: "Arko Chowdhury",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/9.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/9.jpg",
           modal_image_url: "/image/executives/2022-2023/9.png",
           profile_url: [
             {
@@ -888,7 +888,7 @@ const db: dbType = {
         {
           name: "Badruddoza Kaif",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/10.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/10.jpg",
           modal_image_url: "/image/executives/2022-2023/10.png",
           profile_url: [
             { platform: "facebook", url: "https://www.facebook.com/bokaif" },
@@ -903,7 +903,7 @@ const db: dbType = {
         {
           name: "Tahsin Ahmed",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/11.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/11.jpg",
           modal_image_url: "/image/executives/2022-2023/11.png",
           profile_url: [
             {
@@ -921,7 +921,7 @@ const db: dbType = {
         {
           name: "Snigdho Roy",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/12.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/12.jpg",
           modal_image_url: "/image/executives/2022-2023/12.png",
           profile_url: [
             {
@@ -939,7 +939,7 @@ const db: dbType = {
         {
           name: "Md. Al Mahin Bin Hasan",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/13.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/13.jpg",
           modal_image_url: "/image/executives/2022-2023/13.png",
           profile_url: [
             {
@@ -957,7 +957,7 @@ const db: dbType = {
         {
           name: "Sahidul Hasan Rahi",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/14.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/14.jpg",
           modal_image_url: "/image/executives/2022-2023/14.png",
           profile_url: [
             {
@@ -975,7 +975,7 @@ const db: dbType = {
         {
           name: "Ahammad Shawki",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/15.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/15.jpg",
           modal_image_url: "/image/executives/2022-2023/15.png",
           profile_url: [
             {
@@ -1001,7 +1001,7 @@ const db: dbType = {
         {
           name: "Md. Naimur Rahman",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/16.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/16.jpg",
           modal_image_url: "/image/executives/2022-2023/16.png",
           profile_url: [
             {
@@ -1027,7 +1027,7 @@ const db: dbType = {
         {
           name: "Abdullah Al Fahme",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/17.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/17.jpg",
           modal_image_url: "/image/executives/2022-2023/17.png",
           profile_url: [
             {
@@ -1044,7 +1044,7 @@ const db: dbType = {
         {
           name: "Bakhtiar Hossain",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/18.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/18.jpg",
           modal_image_url: "/image/executives/2022-2023/18.png",
           profile_url: [
             {
@@ -1061,7 +1061,7 @@ const db: dbType = {
         {
           name: "Shaikh Mohammad Moballig",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2022-2023/19.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2022-2023/19.jpg",
           modal_image_url: "/image/executives/2022-2023/19.png",
           profile_url: [
             {
@@ -1083,7 +1083,7 @@ const db: dbType = {
         {
           name: "Hasibur Rahman Touhid",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2021-2022/1.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2021-2022/1.jpg",
           profile_url: "",
           post: "President",
           dept: "Department of Administration",
@@ -1091,7 +1091,7 @@ const db: dbType = {
         {
           name: "Md Eyamin Hossan Molla",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2021-2022/2.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2021-2022/2.jpg",
           profile_url: "",
           post: "Secretary",
           dept: "Department of Administration",
@@ -1099,7 +1099,7 @@ const db: dbType = {
         {
           name: "Abdul Basit Tonmoy",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2021-2022/3.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2021-2022/3.jpg",
           profile_url: "",
           post: "President",
           dept: "Department of A.W.S",
@@ -1107,7 +1107,7 @@ const db: dbType = {
         {
           name: "Sk. Shafin Ahmad",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2021-2022/4.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2021-2022/4.jpg",
           profile_url: "",
           post: "Secretary",
           dept: "Department of A.W.S",
@@ -1116,7 +1116,7 @@ const db: dbType = {
         {
           name: "Saom Bin Khaled",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2021-2022/7.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2021-2022/7.jpg",
           profile_url: "",
           post: "President",
           dept: "Department of Programming",
@@ -1124,7 +1124,7 @@ const db: dbType = {
         {
           name: "Ihasan Iftekhar Labib",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2021-2022/8.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2021-2022/8.jpg",
           profile_url: "",
           post: "Secretary",
           dept: "Department of Programming",
@@ -1132,7 +1132,7 @@ const db: dbType = {
         {
           name: "Farhan Ishraq",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2021-2022/11.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2021-2022/11.jpg",
           profile_url: "",
           post: "President",
           dept: "Department of Public Relations",
@@ -1140,7 +1140,7 @@ const db: dbType = {
         {
           name: "Azmain Muksit Anam",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2021-2022/12.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2021-2022/12.jpg",
           profile_url: "",
           post: "Secretary",
           dept: "Department of Public Relations",
@@ -1148,7 +1148,7 @@ const db: dbType = {
         {
           name: "Abu Bakar Siddique",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2021-2022/9.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2021-2022/9.jpg",
           profile_url: "",
           post: "President",
           dept: "Department of Publications",
@@ -1156,7 +1156,7 @@ const db: dbType = {
         {
           name: "Rafsan Jani Bin Islam",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2021-2022/10.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2021-2022/10.jpg",
           profile_url: "",
           post: "Secretary",
           dept: "Department of Publications",
@@ -1165,7 +1165,7 @@ const db: dbType = {
         {
           name: "Md. Ashrafuzzaman Fuad",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2021-2022/13.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2021-2022/13.jpg",
           profile_url: "",
           post: "President",
           dept: "Department of Robotics",
@@ -1174,7 +1174,7 @@ const db: dbType = {
         {
           name: "Khalid Ahammed Uzzal",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2021-2022/14.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2021-2022/14.jpg",
           profile_url: "",
           post: "President",
           dept: "Web & App Development",
@@ -1182,7 +1182,7 @@ const db: dbType = {
         {
           name: "Farhan Ishrak",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2021-2022/15.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2021-2022/15.jpg",
           profile_url: "",
           post: "Treasurer",
           dept: null,
@@ -1190,7 +1190,7 @@ const db: dbType = {
         {
           name: "Sourov Das",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2021-2022/5.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2021-2022/5.jpg",
           profile_url: "",
           post: "Executive Member",
           dept: null,
@@ -1198,7 +1198,7 @@ const db: dbType = {
         {
           name: "Mirza Ahmed Al Mehedi",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2021-2022/6.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2021-2022/6.jpg",
           profile_url: "",
           post: "Executive Member",
           dept: null,
@@ -1211,7 +1211,7 @@ const db: dbType = {
         {
           name: "Kowsar Ansary",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2020-2021/1.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2020-2021/1.jpg",
           profile_url: "https://www.facebook.com/kowsar.ansary",
           post: "President",
           dept: "Department of Administration",
@@ -1219,7 +1219,7 @@ const db: dbType = {
         {
           name: "Faiaz Azmain",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2020-2021/2.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2020-2021/2.jpg",
           profile_url: "https://www.facebook.com/faiazmain",
           post: "Secretary",
           dept: "Department of Administration",
@@ -1227,7 +1227,7 @@ const db: dbType = {
         {
           name: "Shahran Hossain",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2020-2021/3.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2020-2021/3.jpg",
           profile_url: "https://www.facebook.com/shahran.hossain",
           post: "President",
           dept: "Department of A.W.S",
@@ -1235,7 +1235,7 @@ const db: dbType = {
         {
           name: "Sharar Ahmad",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2020-2021/4.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2020-2021/4.jpg",
           profile_url: "https://www.facebook.com/sharar.ahmad.50",
           post: "Secretary",
           dept: "Department of A.W.S",
@@ -1244,7 +1244,7 @@ const db: dbType = {
         {
           name: "Saleque Bin Hossain",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2020-2021/7.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2020-2021/7.jpg",
           profile_url: "https://www.facebook.com/sm.saleque",
           post: "President",
           dept: "Department of Programming",
@@ -1252,7 +1252,7 @@ const db: dbType = {
         {
           name: "Sadek Hossain Asif",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2020-2021/8.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2020-2021/8.jpg",
           profile_url: "https://www.facebook.com/asif.sadek.39",
           post: "Secretary",
           dept: "Department of Programming",
@@ -1260,7 +1260,7 @@ const db: dbType = {
         {
           name: "Tausif Muntak Tasin",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2020-2021/11.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2020-2021/11.jpg",
           profile_url: "https://www.facebook.com/tausifmuntak.tasin",
           post: "President",
           dept: "Department of Public Relations",
@@ -1268,7 +1268,7 @@ const db: dbType = {
         {
           name: "Ahmed Jubyer",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2020-2021/12.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2020-2021/12.jpg",
           profile_url: "https://www.facebook.com/ahmed.jubyer.1102",
           post: "Secretary",
           dept: "Department of Public Relations",
@@ -1276,7 +1276,7 @@ const db: dbType = {
         {
           name: "Faiyad Hossain Sowad",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2020-2021/9.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2020-2021/9.jpg",
           profile_url: "https://www.facebook.com/fhsowad",
           post: "President",
           dept: "Department of Publications",
@@ -1284,7 +1284,7 @@ const db: dbType = {
         {
           name: "Aniruddha Chisim",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2020-2021/10.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2020-2021/10.jpg",
           profile_url: "https://www.facebook.com/ruddha.chisim",
           post: "Secretary",
           dept: "Department of Publications",
@@ -1293,7 +1293,7 @@ const db: dbType = {
         {
           name: "Shahriyar Haris",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2020-2021/13.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2020-2021/13.jpg",
           profile_url: "https://www.facebook.com/shahriyar.haris.9",
           post: "President",
           dept: "Department of Robotics",
@@ -1301,7 +1301,7 @@ const db: dbType = {
         {
           name: "Nafis Mahmud",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2020-2021/14.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2020-2021/14.jpg",
           profile_url: "https://www.facebook.com/NafisTheGr8",
           post: "Secretary",
           dept: "Department of Robotics",
@@ -1309,7 +1309,7 @@ const db: dbType = {
         {
           name: "Asif Alamgir",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2020-2021/15.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2020-2021/15.jpg",
           profile_url: "https://www.facebook.com/asif.alamgir.710",
           post: "Treasurer",
           dept: null,
@@ -1317,7 +1317,7 @@ const db: dbType = {
         {
           name: "Arman Ferdous",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2020-2021/5.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2020-2021/5.jpg",
           profile_url:
             "https://www.facebook.com/profile.php?id=100011664880404",
           post: "Executive Member",
@@ -1326,7 +1326,7 @@ const db: dbType = {
         {
           name: "J.M. Areeb Uzair",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2020-2021/6.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2020-2021/6.jpg",
           profile_url: "",
           post: "Executive Member",
           dept: null,
@@ -1339,7 +1339,7 @@ const db: dbType = {
         {
           name: "Fahim Murshed",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2019-2020/3.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2019-2020/3.jpg",
           profile_url: "https://www.facebook.com/rabby.fahimmurshed.3",
           post: "President",
           dept: "Department of Administration",
@@ -1348,7 +1348,7 @@ const db: dbType = {
         {
           name: "Mashfiqun Nabi",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2019-2020/9.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2019-2020/9.jpg",
           profile_url: "https://www.facebook.com/mashfiqun.nabi",
           post: "Secretary",
           dept: "Department of Administration",
@@ -1356,7 +1356,7 @@ const db: dbType = {
         {
           name: "Hrithik Deb",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2019-2020/4.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2019-2020/4.jpg",
           profile_url: "https://www.facebook.com/gs.hrithik",
           post: "President",
           dept: "Department of A.W.S",
@@ -1364,7 +1364,7 @@ const db: dbType = {
         {
           name: "Hashibul Sharon",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2019-2020/10.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2019-2020/10.jpg",
           profile_url: "https://www.facebook.com/hashibulsharon",
           post: "Secretary",
           dept: "Department of A.W.S",
@@ -1372,7 +1372,7 @@ const db: dbType = {
         {
           name: "Chowdhury Isfatul Karim",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2019-2020/1.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2019-2020/1.jpg",
           profile_url: "https://www.facebook.com/isfatul.karim",
           post: "President",
           dept: "Department of Programming",
@@ -1380,7 +1380,7 @@ const db: dbType = {
         {
           name: "Nazib Abrar",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2019-2020/7.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2019-2020/7.jpg",
           profile_url: "https://www.facebook.com/abrar.nirjh0r",
           post: "Secretary",
           dept: "Department of Programming",
@@ -1388,7 +1388,7 @@ const db: dbType = {
         {
           name: "Noor Mohammad Rifat",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2019-2020/5.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2019-2020/5.jpg",
           profile_url: "https://www.facebook.com/nm.rifat.925",
           post: "President",
           dept: "Department of Public Relations",
@@ -1396,7 +1396,7 @@ const db: dbType = {
         {
           name: "Mostofa Mohiuddin",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2019-2020/11.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2019-2020/11.jpg",
           profile_url: "https://www.facebook.com/eshan.ahmed.758737",
           post: "Secretary",
           dept: "Department of Public Relations",
@@ -1404,7 +1404,7 @@ const db: dbType = {
         {
           name: "Aritra Arka Sarkar",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2019-2020/6.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2019-2020/6.jpg",
           profile_url: "https://www.facebook.com/ardour.arcturus",
           post: "President",
           dept: "Department of Publications",
@@ -1412,7 +1412,7 @@ const db: dbType = {
         {
           name: "Zuhayer Md. Ajmain Hoque",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2019-2020/12.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2019-2020/12.jpg",
           profile_url: "",
           post: "Secretary",
           dept: "Department of Publications",
@@ -1420,7 +1420,7 @@ const db: dbType = {
         {
           name: "Hamidur Rahman Khan",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2019-2020/2.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2019-2020/2.jpg",
           profile_url: "https://www.facebook.com/hamidur.rk",
           post: "President",
           dept: "Department of Robotics",
@@ -1428,7 +1428,7 @@ const db: dbType = {
         {
           name: "Shihab Sarar Ahmed",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2019-2020/8.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2019-2020/8.jpg",
           profile_url: "https://www.facebook.com/shihabsarar29",
           post: "Secretary",
           dept: "Department of Robotics",
@@ -1436,7 +1436,7 @@ const db: dbType = {
         {
           name: "Takbir Hossain Rudro",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2019-2020/13.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2019-2020/13.jpg",
           profile_url: "",
           post: "Treasurer",
           dept: null,
@@ -1444,7 +1444,7 @@ const db: dbType = {
         {
           name: "Abir Hasan Rohan",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2019-2020/14.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2019-2020/14.jpg",
           profile_url: "https://www.facebook.com/ahr627",
           post: "Executive Member",
           dept: null,
@@ -1457,7 +1457,7 @@ const db: dbType = {
         {
           name: "Intiser Rajoan Parash",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2018-2019/1.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2018-2019/1.jpg",
           profile_url: "https://www.facebook.com/intiserx",
           post: "General Secretary",
           dept: null,
@@ -1465,7 +1465,7 @@ const db: dbType = {
         {
           name: "Saran Debnath",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2018-2019/2.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2018-2019/2.jpg",
           profile_url:
             "https://www.facebook.com/profile.php?id=100036123218909",
           post: "Associate General Secratary",
@@ -1474,7 +1474,7 @@ const db: dbType = {
         {
           name: "Mir Mashrafi Alam",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2018-2019/3.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2018-2019/3.jpg",
           profile_url: "https://www.facebook.com/mashrafi.alam.97",
           post: "Joint Secretary",
           dept: null,
@@ -1482,7 +1482,7 @@ const db: dbType = {
         {
           name: "Rahib Elias",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2018-2019/4.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2018-2019/4.jpg",
           profile_url: "https://www.facebook.com/rahib.elias",
           post: "Treasurer",
           dept: null,
@@ -1490,7 +1490,7 @@ const db: dbType = {
         {
           name: "Naim Rahaman",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2018-2019/5.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2018-2019/5.jpg",
           profile_url: "",
           post: "Secretary [Publication]",
           dept: null,
@@ -1498,7 +1498,7 @@ const db: dbType = {
         {
           name: "Fazle Ruhan",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2018-2019/6.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2018-2019/6.jpg",
           profile_url: "https://www.facebook.com/md.ruhan.9237",
           post: "Secretary [Public Relation]",
           dept: null,
@@ -1506,7 +1506,7 @@ const db: dbType = {
         {
           name: "Aminul Islam Miraz",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2018-2019/7.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2018-2019/7.jpg",
           profile_url: "https://www.facebook.com/aminulislam.miraz.3",
           post: "Secretary [A.W.S.]",
           dept: null,
@@ -1514,7 +1514,7 @@ const db: dbType = {
         {
           name: "Al Mubin Nabil",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2018-2019/8.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2018-2019/8.jpg",
           profile_url: "https://www.facebook.com/almubin.nabil",
           post: "Secretary [Robotics]",
           dept: null,
@@ -1522,7 +1522,7 @@ const db: dbType = {
         {
           name: "Sumit Alam Khan",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2018-2019/9.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2018-2019/9.jpg",
           profile_url:
             "https://www.facebook.com/profile.php?id=100010422460989",
           post: "Secretary [Programming]",
@@ -1531,7 +1531,7 @@ const db: dbType = {
         {
           name: "Hasibul Hasan Ahmed",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2018-2019/10.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2018-2019/10.jpg",
           profile_url: "https://www.facebook.com/hasibul.hasan.5283",
           post: "Associate Secretary [Publication]",
           dept: null,
@@ -1539,7 +1539,7 @@ const db: dbType = {
         {
           name: "Farhan Rahman Fahim",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2018-2019/11.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2018-2019/11.jpg",
           profile_url: "",
           post: "Associate Secretary [Publication]",
           dept: null,
@@ -1547,7 +1547,7 @@ const db: dbType = {
         {
           name: "Jubaidul Jobaer Rakib",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2018-2019/12.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2018-2019/12.jpg",
           profile_url: "",
           post: "Associate Secretary [Public Relation]",
           dept: null,
@@ -1555,7 +1555,7 @@ const db: dbType = {
         {
           name: "Ahmed Atif Abrar",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2018-2019/13.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2018-2019/13.jpg",
           profile_url: "https://www.facebook.com/ahmed.atifabrar",
           post: "Associate Secretary [Public Relation]",
           dept: null,
@@ -1563,7 +1563,7 @@ const db: dbType = {
         {
           name: "Sabbir Ahmed Khan",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2018-2019/14.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2018-2019/14.jpg",
           profile_url: "https://www.facebook.com/sabbirahmedkhan19",
           post: "Associate Secretary [A.W.S.]",
           dept: null,
@@ -1571,7 +1571,7 @@ const db: dbType = {
         {
           name: "Al Imran Sonet",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2018-2019/15.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2018-2019/15.jpg",
           profile_url: "https://www.facebook.com/alimran.sonet.79",
           post: "Associate Secretary [A.W.S.]",
           dept: null,
@@ -1579,7 +1579,7 @@ const db: dbType = {
         {
           name: "Arban Hossain",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2018-2019/16.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2018-2019/16.jpg",
           profile_url: "https://www.facebook.com/liquidicalpants",
           post: "Associate Secretary [Robotics]",
           dept: null,
@@ -1587,7 +1587,7 @@ const db: dbType = {
         {
           name: "Shantanu Rahman",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2018-2019/17.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2018-2019/17.jpg",
           profile_url: "https://www.facebook.com/shantanu.nerd",
           post: "Associate Secretary [Programming]",
           dept: null,
@@ -1595,7 +1595,7 @@ const db: dbType = {
         {
           name: "Fahim Hossain",
           image_url:
-            "https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/images/executives/2018-2019/18.jpg",
+            "https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/images/executives/2018-2019/18.jpg",
           profile_url: "https://www.facebook.com/fahimhossain.sahil",
           post: "Executive Member",
           dept: null,

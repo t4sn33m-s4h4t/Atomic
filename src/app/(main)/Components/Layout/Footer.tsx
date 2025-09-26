@@ -112,7 +112,7 @@ const Footer = () => {
               />
             </svg>
 
-            <p>nditc.official@gmail.com</p>
+            <p>ABSC.official@gmail.com</p>
           </div>
 
           <div className="flex items-center gap-1 font-medium text-zinc-400 hover:underline">

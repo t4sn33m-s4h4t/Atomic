@@ -18,7 +18,7 @@ const getRegisteredNDC = async (ndc_id: string) => {
   return res;
 };
 
-const getConnectToNDITC = async (ndc_id: string, email: string) => {
+const getConnectToABSC = async (ndc_id: string, email: string) => {
   const res = await fetch("/api/createaccountndc", {
     method: "POST",
     body: JSON.stringify({ ndc_id: ndc_id, email: email }),
@@ -58,7 +58,7 @@ const ClubInfo = ({
           setMemberData(resp);
         })
         .catch(() => {
-          toast.error("You are not a member of NDITC!");
+          toast.error("You are not a member of ABSC!");
           updateDoc(doc(db, "participants", uid), { ndc_id: "" });
         });
     }
@@ -77,7 +77,7 @@ const ClubInfo = ({
     setLoading(true);
 
     if (asMember) {
-      const docRes = await getConnectToNDITC(roll, email);
+      const docRes = await getConnectToABSC(roll, email);
 
       if (!docRes.ok) {
         toast.error("Invalid Roll or Email.");
@@ -134,7 +134,7 @@ const ClubInfo = ({
               <PiStudentFill className="h-12 w-12 text-primary" />
               <h1 className="text-4xl">
                 <span className="text-primary">{"CONNECT"}</span>
-                {" TO NDITC"}
+                {" TO ABSC"}
               </h1>
             </div>
           </div>
@@ -145,7 +145,7 @@ const ClubInfo = ({
                 <CiWarning />
                 Warning:
               </b>
-              You can only connect if you are a member of NDITC and submitted
+              You can only connect if you are a member of ABSC and submitted
               your membership form in college. Batch '27 can't connect yet cause
               we don't have your form data yet. So, keep the Member Checkmark
               unticked
@@ -171,7 +171,7 @@ const ClubInfo = ({
                   className="pb-5"
                   size="lg"
                 >
-                  NDITC Member ?
+                  ABSC Member ?
                 </Checkbox>
 
                 {!asMember && ndc_roll && ndc_roll != "" && (
@@ -216,7 +216,7 @@ const ClubInfo = ({
                 {loading ? (
                   <CgSpinner className="h-7 w-7 animate-spin text-white" />
                 ) : (
-                  "Connect to NDITC"
+                  "Connect to ABSC"
                 )}
               </button>
             </div>
@@ -231,7 +231,7 @@ const ClubInfo = ({
             <div className="flex flex-col gap-5">
               <PiStudentFill className="h-12 w-12 text-primary" />
               <h1 className="text-4xl">
-                <span className="text-primary">{"NDITC"}</span>
+                <span className="text-primary">{"ABSC"}</span>
                 {" INFORMATION"}
               </h1>
             </div>

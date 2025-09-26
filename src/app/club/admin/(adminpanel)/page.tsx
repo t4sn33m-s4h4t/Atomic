@@ -85,12 +85,12 @@ const Page = () => {
               <div className="flex items-center gap-5">
                 <FaClipboardUser className="h-12 w-12 text-primary" />
                 <h1 className="text-4xl leading-none">
-                  <span className="">NDITC Members DB</span>
+                  <span className="">ABSC Members DB</span>
                 </h1>
               </div>
               <div>
                 <a
-                  href="https://memberapi.nditc.net/admin/"
+                  href="https://memberapi.ABSC.net/admin/"
                   target="_blank"
                   className="inline-flex flex-1 items-center justify-center gap-2 rounded-lg bg-primary px-5 py-2 text-sm leading-[1.15] text-white shadow-sm transition-colors hover:bg-primary_dark hover:text-white focus:ring-2 focus:ring-secondary"
                 >
@@ -105,12 +105,12 @@ const Page = () => {
               <div className="flex items-center gap-5">
                 <BsDatabase className="h-12 w-12 text-primary" />
                 <h1 className="text-4xl leading-none">
-                  <span className="">NDITC Site DB</span>
+                  <span className="">ABSC Site DB</span>
                 </h1>
               </div>
               <div>
                 <a
-                  href="https://nditc.pythonanywhere.com/"
+                  href="https://ABSC.pythonanywhere.com/"
                   target="_blank"
                   className="inline-flex flex-1 items-center justify-center gap-2 rounded-lg bg-primary px-5 py-2 text-sm leading-[1.15] text-white shadow-sm transition-colors hover:bg-primary_dark hover:text-white focus:ring-2 focus:ring-secondary"
                 >

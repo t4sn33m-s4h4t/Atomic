@@ -72,7 +72,7 @@ const Page = async (props: { params: Promise<ParamType> }) => {
                   </a>
                   {data.title == "Official Mobile App" && (
                     <a
-                      href="https://raw.githubusercontent.com/nditc/nditc_mobile_app/main/nditc.apk"
+                      href="https://raw.githubusercontent.com/ABSC/ABSC_mobile_app/main/ABSC.apk"
                       target="_blank"
                       className="Bebas text-whiterounded-lg relative inline-block min-w-[48%] flex-1 cursor-pointer self-start overflow-hidden rounded-lg border-2 border-zinc-800 bg-white px-7 py-2 text-center align-middle font-Bebas text-xl font-medium transition-all before:absolute before:left-0 before:top-0 before:h-full before:w-0 before:duration-500 after:absolute after:right-0 after:top-0 after:h-full after:w-0 after:duration-500 hover:text-white hover:shadow-pink-400 hover:before:w-2/4 hover:before:bg-zinc-900 hover:after:w-2/4 hover:after:bg-zinc-900 focus:z-10 focus:ring-4 focus:ring-gray-700 sm:min-w-[auto] md:flex-[0_auto]"
                     >

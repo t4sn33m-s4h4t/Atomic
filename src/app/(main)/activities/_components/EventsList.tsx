@@ -67,7 +67,7 @@ const EventsList = ({ data }: { data: any[] }) => {
                 imageURL={e.image_url || e.images[0]}
                 descURL={
                   e.details_url ||
-                  "https://nditc.pythonanywhere.com/api/v1/" +
+                  "https://ABSC.pythonanywhere.com/api/v1/" +
                     type +
                     "s/" +
                     e.id

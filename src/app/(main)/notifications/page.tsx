@@ -7,7 +7,7 @@ const Notifications = async () => {
 
   try {
     const res = await fetch(
-      "https://nditc.pythonanywhere.com/api/v1/notifications/web?page=1&limit=5",
+      "https://ABSC.pythonanywhere.com/api/v1/notifications/web?page=1&limit=5",
       { cache: "no-store" }
     );
 

@@ -9,7 +9,7 @@ export async function POST(request: any) {
 
   try {
     const req = await fetch(
-      "https://nditc.us14.list-manage.com/subscribe/post?u=252af46a54f45725aea40941c&amp;id=53b7f78f01&amp;f_id=004391e0f0",
+      "https://ABSC.us14.list-manage.com/subscribe/post?u=252af46a54f45725aea40941c&amp;id=53b7f78f01&amp;f_id=004391e0f0",
       { body: JSON.stringify({ email: email }) }
     );
 

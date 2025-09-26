@@ -6,7 +6,7 @@ export const getEventData = async (type: string) => {
     modifiedType = "activities/" + type;
   }
   const res = await fetch(
-    "https://nditc.pythonanywhere.com/api/v1/" + modifiedType,
+    "https://ABSC.pythonanywhere.com/api/v1/" + modifiedType,
     {
       cache: "no-store",
     },

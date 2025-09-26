@@ -14,15 +14,15 @@ export async function POST(request: any) {
   const transporter = nodemailer.createTransport({
     service: "gmail",
     auth: {
-      user: "info.nditc.official@gmail.com",
+      user: "info.ABSC.official@gmail.com",
       pass: "wgmtmezjhewycapo",
     },
   });
 
   try {
     const mail = await transporter.sendMail({
-      from: "nditc.official@gmail.com",
-      to: "nditc.official@gmail.com",
+      from: "ABSC.official@gmail.com",
+      to: "ABSC.official@gmail.com",
       replyTo: email,
       subject: `Website Contact Mail from ${email}`,
       name: name,

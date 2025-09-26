@@ -680,7 +680,7 @@ const EditUserData = ({
               state={editUserData.ndc_id}
               setValue={setValue}
               name="ndc_id"
-              label="NDITC Member Unique ID"
+              label="ABSC Member Unique ID"
               type="text"
               editable={editin}
               notRequired

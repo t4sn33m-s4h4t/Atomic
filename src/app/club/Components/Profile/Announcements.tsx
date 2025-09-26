@@ -59,7 +59,7 @@ const Announcements = ({ club }: { club?: boolean }) => {
         <div className="ml-2 flex items-center gap-3">
           <MdAnnouncement className="h-8 w-8 text-primary xsm:h-10 xsm:w-10" />
           <h1 className="mt-1 text-3xl leading-none xsm:text-4xl">
-            <span className="text-primary">{club ? "NDITC" : ""}</span> NOTICE
+            <span className="text-primary">{club ? "ABSC" : ""}</span> NOTICE
           </h1>
         </div>
         <div className="my-5 flex max-h-[550px] flex-col gap-5">
@@ -85,7 +85,7 @@ const Announcements = ({ club }: { club?: boolean }) => {
         <div className="ml-2 flex items-center gap-3">
           <MdAnnouncement className="h-8 w-8 text-primary xsm:h-10 xsm:w-10" />
           <h1 className="mt-1 text-3xl leading-none xsm:text-4xl">
-            <span className="text-primary">{club ? "NDITC" : ""}</span> NOTICE
+            <span className="text-primary">{club ? "ABSC" : ""}</span> NOTICE
           </h1>
         </div>
         <div className="my-4 rounded-xl bg-red-50 p-4 border border-red-200">
@@ -101,7 +101,7 @@ const Announcements = ({ club }: { club?: boolean }) => {
       <div className="ml-2 flex items-center gap-3">
         <MdAnnouncement className="h-8 w-8 text-primary xsm:h-10 xsm:w-10" />
         <h1 className="mt-1 text-3xl leading-none xsm:text-4xl">
-          <span className="text-primary">{club ? "NDITC" : ""}</span> NOTICE
+          <span className="text-primary">{club ? "ABSC" : ""}</span> NOTICE
         </h1>
       </div>
 

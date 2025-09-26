@@ -234,7 +234,7 @@ const Announcements = () => {
                   className=""
                 >
                   <label className="text-2xl font-medium text-gray-900">
-                    <span className="text-primary">NDITC</span> Notice
+                    <span className="text-primary">ABSC</span> Notice
                   </label>
                 </Checkbox>
               </div>

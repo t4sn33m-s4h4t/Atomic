@@ -82,7 +82,7 @@ const Page = (props: { params: Promise<{ eventID: string }> }) => {
   const [endDate, setEndDate] = useState(now(getLocalTimeZone()));
   const [addTime, setAddTime] = useState<any>();
   const [imageURL, setImageURL] = useState(
-    "https://firebasestorage.googleapis.com/v0/b/nditc-club.appspot.com/o/ep%2Ffallback.webp?alt=media&token=2607601b-5deb-49f6-a0cf-5a8d12e71112",
+    "https://firebasestorage.googleapis.com/v0/b/ABSC-club.appspot.com/o/ep%2Ffallback.webp?alt=media&token=2607601b-5deb-49f6-a0cf-5a8d12e71112",
   );
   const [description, setDescription] = useState("");
 
@@ -596,7 +596,7 @@ const Page = (props: { params: Promise<{ eventID: string }> }) => {
                 </Radio>
                 <Radio
                   value="intra_club"
-                  description="Quiz only for all NDITC Members"
+                  description="Quiz only for all ABSC Members"
                 >
                   Intra Club
                 </Radio>
@@ -657,7 +657,7 @@ const Page = (props: { params: Promise<{ eventID: string }> }) => {
                   </h1>
 
                   <p className="py-6">
-                    You are about to delete an existing NDITC Event. Are you
+                    You are about to delete an existing ABSC Event. Are you
                     sure?
                   </p>
 
